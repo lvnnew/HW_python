@@ -1,5 +1,4 @@
 
-Cmplx = 2+3j
 Str = "Murrzik" #1) Создать переменную типа String
 Int = 22 #2) Создать переменную типа Integer
 Flt = 1.02 #3) Создать переменную типа Float
@@ -12,7 +11,6 @@ Dct = {'first': 1, 'second': 2} #9) Создать переменную типа
 # или Dct = dict(first = 1, second = 2)
 
 #10) Вывести в консоль все выше перечисленные переменные с добавлением типа данных.
-print(type(Cmplx), Cmplx)
 print(type(Str), Str)
 print(type(Int), Int)
 print(type(Flt), Flt)
