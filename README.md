@@ -11,16 +11,6 @@ Dct = {'first': 1, 'second': 2} #9) Создать переменную типа
 # или Dct = dict(first = 1, second = 2)
 
 #10) Вывести в консоль все выше перечисленные переменные с добавлением типа данных.
-#print(type(Str), Str)
-#print(type(Int), Int)
-#print(type(Flt), Flt)
-#print(type(Bts), Bts)
-#print(type(Lst), Lst)
-#print(type(Tpl), Tpl)
-#print(type(St), St)
-#print(type(FrznSt), FrznSt)
-#print(type(Dct), Dct)
-
 somelist = [Str, Int, Flt, Bts, Lst, Tpl, St, FrznSt, Dct]
 for i in somelist:
     print(i, type(i))
