@@ -6,7 +6,7 @@ item_2 = 6 #  2. Создать переменную item_2 типа integer.
 result_sum = item_1 + item_2 # 3. Создать переменную result_sum в которой вы суммируете item_1 и item_2.
 print ("Cумма item_1 и item_2 =",result_sum) # 4. Вывести result_sum в консоль.
 
-result_subtr = item_2 - item_1 # 5. Создать переменную result_subtr в которой вы вычитаете большую по значению переменную из меньшей по значению.
+result_subtr = item_1 - item_2 # 5. Создать переменную result_subtr в которой вы вычитаете большую по значению переменную из меньшей по значению.
 print("Вычитание item_1 из item_2 =",result_subtr) # 6. Вывести result_subtr в консоль.
 
 result_multi = item_1 * item_2 # 7. Создать переменную result_multi в которой вы умножаете item_1 на item_2.
